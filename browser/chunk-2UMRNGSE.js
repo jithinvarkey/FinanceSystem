@@ -1,0 +1,1 @@
+import"./chunk-VHCA6YAO.js";var t=[{path:"",pathMatch:"full",redirectTo:"inbox"},{path:"inbox",loadComponent:()=>import("./chunk-D7BJQISJ.js").then(o=>o.ApprovalsInboxComponent)}];export{t as APPROVALS_ROUTES};
